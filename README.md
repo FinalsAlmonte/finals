@@ -1,2 +1,2 @@
 # finals
-Final
+Final project for integ prog tech
